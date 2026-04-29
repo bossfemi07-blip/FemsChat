@@ -118,3 +118,4 @@ MIT License - Feel free to use this project for any purpose.
 ---
 
 **Bori to the World!** 🚀
+femschat.lovable.app/
